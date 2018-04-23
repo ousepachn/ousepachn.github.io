@@ -15,9 +15,9 @@ description: Look into the mallu movie industry
 ---
 
 # A quick look into the history of malayalam cinema.
-Hi there fellow mallu cinema enthusiast and (or) data geeks!  Ever wondered how the malayalam movie industry shaped across time.  Here is a quick look at all movies in the industry sorted by time.
+Hi there fellow mallu cinema enthusiast and (or) data geek!  Ever wondered how the malayalam movie industry shaped across time? No, yeah... thought so.. but if you ever do think about it.. here is a quick chart that might pique your interest
 
-the below chart lists all movies released in Malayalam from the 1920's to present day.  Thats over <b>4,500</b> movies and counting.  Click through and enjoy
+Below are all movies released in Malayalam from the 1920's to present day.  Thats over <b>4,500</b> movies after and counting.  Click through and enjoy
 
 <script src="https://d3js.org/d3.v4.min.js"></script>
 <link rel="stylesheet" type="text/css" href="/assets/css/main.css">
