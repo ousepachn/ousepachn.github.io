@@ -23,7 +23,7 @@ After nearly 5 years of living in the states, I finally had a chance to make it 
 
 
 		<link href="https://fonts.googleapis.com/css?family=Roboto+Condensed" rel="stylesheet">
-		<link rel="stylesheet" type="text/css" href="mystyle.css">
+		<link rel="stylesheet" type="text/css" href="/assets/css/mystyle.css">
 
 		<button id='split'>Split by height</button>
 		<button id='combine'>Combine</button>
