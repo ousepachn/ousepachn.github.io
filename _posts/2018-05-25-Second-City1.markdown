@@ -19,16 +19,12 @@ Fly over country.  All that area that you look at from the window of your plane 
 
 After nearly 5 years of living in the states, I finally had a chance to make it to this part of the country..I finally made an extended trip in fly over country.. and what I found there was amazing.
 
-
-
-
-		<link href="https://fonts.googleapis.com/css?family=Roboto+Condensed" rel="stylesheet">
-		<link rel="stylesheet" type="text/css" href="/assets/css/mystyle.css">
-
-		<button id='split'>Split by height</button>
-		<button id='combine'>Combine</button>
-		<div id="chart"></div>
-		<script src="//d3js.org/d3.v4.min.js"></script>
-		<script src="//d3js.org/d3-scale-chromatic.v0.3.min.js"></script>
-		<script src="/assets/js/bubbles.js"></script>
+<link href="https://fonts.googleapis.com/css?family=Roboto+Condensed" rel="stylesheet">
+<link rel="stylesheet" type="text/css" href="/assets/css/mystyle.css">
+<button id='split'>Split by height</button>
+<button id='combine'>Combine</button>
+<div id="chart"></div>
+<script src="//d3js.org/d3.v4.min.js"></script>
+<script src="//d3js.org/d3-scale-chromatic.v0.3.min.js"></script>
+<script src="/assets/js/bubbles.js"></script>
 
