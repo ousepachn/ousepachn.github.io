@@ -1,17 +1,17 @@
-body {
+#example {
 	font-family: 'Roboto Condensed', sans-serif;
     font-size: 100%;
 }
 
-h1 {
+#example h1 {
     font-size: 2.5em;
 }
 
-h2 {
+#example h2 {
     font-size: 1.875em;
 }
 
-p,text {
+#example p,text {
     font-size: 0.875em;
 }
 
