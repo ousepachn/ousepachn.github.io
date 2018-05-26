@@ -23,7 +23,7 @@
 
 
 	d3.queue()
-	.defer(d3.csv,"architect.csv")
+	.defer(d3.csv,"/assets/data/architect.csv")
 	.await(ready)
 
 	var div = d3.select("body").append("div")
