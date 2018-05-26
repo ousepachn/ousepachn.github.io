@@ -23,8 +23,10 @@ After nearly 5 years of living in the states, I finally had a chance to make it 
 <link rel="stylesheet" type="text/css" href="/assets/css/mystyle.css">
 <button id='split'>Split by height</button>
 <button id='combine'>Combine</button>
+<div id="example">
 <div id="chart"></div>
-<script src="//d3js.org/d3.v4.min.js"></script>
-<script src="//d3js.org/d3-scale-chromatic.v0.3.min.js"></script>
+</div>
+<script src="https://d3js.org/d3.v4.min.js"></script>
+<script src="https://d3js.org/d3-scale-chromatic.v0.3.min.js"></script>
 <script src="/assets/js/bubbles.js"></script>
 
