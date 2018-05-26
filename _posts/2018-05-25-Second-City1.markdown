@@ -21,8 +21,9 @@ After nearly 5 years of living in the states, I finally had a chance to make it 
 
 <script src="https://d3js.org/d3.v4.min.js"></script>
 <script src="https://d3js.org/d3-scale-chromatic.v0.3.min.js"></script>
-<link href="https://fonts.googleapis.com/css?family=Roboto+Condensed" rel="stylesheet">
 <link rel="stylesheet" type="text/css" href="/assets/css/mystyle.css">
+<link href="https://fonts.googleapis.com/css?family=Roboto+Condensed" rel="stylesheet">
+
 <button id='split'>Split by height</button>
 <button id='combine'>Combine</button>
 <div id="example">
