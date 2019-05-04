@@ -5,12 +5,18 @@ layout: compress
 <html lang="en">
 <head>
 
+    {% if site.analytics-google %}
+        {% include analytics-google.html %}
+    {% endif %}
+
     <meta charset="utf-8">
     <meta http-equiv=X-UA-Compatible content="IE=edge,chrome=1">
     <meta name=viewport content="width=device-width, initial-scale=1">
 
     <meta name=description content="{{ site.bio }}">
     <meta name=author content="{{ site.name }}">
+    <meta property="og:image" content="{{ site.url }}/{{ site.picture }}">
+    <meta property="og:type" content="profile">
 
     {% seo %}
     
@@ -43,10 +49,6 @@ layout: compress
     </div>
 
     {% include icons.html %}
-
-    {% if site.analytics-google %}
-        {% include analytics-google.html %}
-    {% endif %}
 
 </body>
 </html>
