@@ -1,0 +1,30 @@
+
+How to create a new post???
+
+Ref: https://jekyllrb.com/docs/posts/
+FAQs: https://talk.jekyllrb.com/
+
+a. go to the _posts folder
+
+b. create a new file with the name YEAR-MONTH-DAY-title.MD or YEAR-MONTH-DAY-title.MARKDOWN 
+
+C. ENSURE THE BELOW HEADER CONTENT IS THE FIRST THING IN THE FILE.  Note that the date field is mandatory and date-time should be in the past.
+
+
+	---
+	title: "Elections 2019"
+	layout: post
+	date: 2019-05-04 00:44
+	image: /assets/images/markdown.jpg
+	headerImage: false
+	tag:
+	- markdown
+	- elements
+	star: true
+	category: blog
+	author: joseph
+	description: Stats on the Kerala Elections. 
+
+	---
+	# Will beef roast prevail?
+	April 23rd 2019 is when Kerala went to the polls for the parliamentary elections.  My own friend managed the elections in Wayanad, where the Congress PM candidate, Rahul Gandhi contested from.  Thought it would be fitting to share some stats on how the state went to the polls.
