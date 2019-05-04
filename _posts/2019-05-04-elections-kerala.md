@@ -14,7 +14,7 @@ description: Stats on the Kerala Elections.
 
 ---
 # Will beef roast prevail?
-April 23rd 2019 is when Kerala went to the polls for the parliamentary elections.  My own friend managed the elections in Wayanad, where the Congress PM candidate, Rahul Gandhi contested from.  Thought it would be fitting to share some stats on how the state went to the polls.
+April 23rd 2019 is when Kerala went to the polls for the parliamentary elections.  With right expression, religious freedom and even beef roast at stake, how Kerala swings could be a good indicator of the saffron wave flooding the nation.  Even Rahul Gandhi ditched Amethi to contest from our little Wayanad.  Thought it would be fitting to share some stats on how the state went to the polls in these uncertain times.
 
 
 

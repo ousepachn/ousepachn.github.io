@@ -1,4 +1,16 @@
 
+Your git repo is upto date.  The latest version on your local machine is in <>
+
+
+How to create a local working server to test out posts
+
+Ref: https://jekyllrb.com/docs/
+do not follow steps 1 to 3, cd into directory and run steps 5 and 6
+
+
+Once you have created a post, commit to git.  you can use the gui for easy commits.  DONT FORGET TO SYNC TO SERVER TO MAKE SURE YOUR COMMITS REACH THE SERVER AND IS AVAILABLE ON THE PAGE ONLINE.
+
+
 How to create a new post???
 
 Ref: https://jekyllrb.com/docs/posts/
