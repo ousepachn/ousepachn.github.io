@@ -10,11 +10,19 @@ tag:
 star: true
 category: blog
 author: joseph
-description: A post on keeping it together when the world is in a constant state of flux 
+description: Keeping it together when the world is in flux 
 
 ---
-# Random title here
-April 23rd 2019 is when Kerala went to the polls for the parliamentary elections.  With right expression, religious freedom and even beef roast at stake, how Kerala swings could be a good indicator of the saffron wave flooding the nation.  Even Rahul Gandhi ditched Amethi to contest from our little Wayanad.  Thought it would be fitting to share some stats on how the state went to the polls in these uncertain times.
+# And just when you thought you'd seen it all, 2020 happens
+Today is 13th April 2020.  I'm putting together this post sitting in an apartment in downtown Chicago.  I was planning to be here for 3 days.  This is now day 33.
 
 
+People call the coronavirus the single most defining moments of our lifetimes.  The world has had to pause, reflect and hopefully restart.  The shockwaves of the pause are unknowns and most of what we called normal will not survive the shockwaves of this event.  You should use the below strategies to ccome out of this period stronger than you went in.
 
+1. Prioritize your goals
+2. Find your emotional anchor
+3. Use the time to connect with your
+4. Learn and Upskill
+5. Invest and diversify your portfolio
+6. Worry soon and move to making a plan
+7. Know that when the normal changes, you will too
