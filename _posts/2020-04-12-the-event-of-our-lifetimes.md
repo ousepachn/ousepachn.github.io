@@ -21,6 +21,9 @@ People call the coronavirus the single most defining moments of our lifetimes.  
 
 1. Prioritize your goals
 2. Find your emotional anchor
+![Markdowm Image][https://photos.app.goo.gl/kcoSVtN4uBcJhbdT8]
+<figcaption class="caption">Lazy Sunday Scenes</figcaption>
+
 3. Use the time to connect with your
 4. Learn and Upskill
 5. Invest and diversify your portfolio
