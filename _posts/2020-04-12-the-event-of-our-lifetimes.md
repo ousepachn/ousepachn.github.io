@@ -20,7 +20,7 @@ Today is 13th April 2020.  I'm putting together this post sitting in an apartmen
 People call the coronavirus the single most defining moments of our lifetimes.  The world has had to pause, reflect and hopefully restart.  The shockwaves of the pause are unknowns and most of what we called normal will not survive the shockwaves of this event.  You should use the below strategies to ccome out of this period stronger than you went in.
 
 1. Prioritize your goals
-2. Find your emotional anchor
+2. Find your emotional anchor<br/>
 ![Markdowm Image](/assets/images/20200405_123532.jpg){:height="50%" width="50%"}
 <figcaption class="caption">Lazy Sunday Scenes</figcaption>
 
