@@ -21,7 +21,7 @@ People call the coronavirus the single most defining moments of our lifetimes.  
 
 1. Prioritize your goals
 2. Find your emotional anchor<br/>
-![Markdowm Image](/assets/images/20200405_123532.jpg){:height="50%" width="50%"}
+![Markdowm Image](/assets/images/20200405_123532.jpg){:height="30%" width="30%"}
 <figcaption class="caption">Lazy Sunday Scenes</figcaption>
 
 3. Use the time to connect with your
