@@ -5,33 +5,14 @@ layout: page
 
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Hi! Welcome to my little corner of the internet.  This page contains 'stuff'</p>
+<p>Hi! Welcome to my little corner of the internet.  This page serves as repository of interesting ideas and projects that I wanted to work on.  It was never intended to be exposed to the greater web.  But now that you're here, please feel to look around.  
+	
+Hopefully, some of these projects are complete.  Hopefully, some of them are interesting and worth your time. </p>
+	
 
-<p>more stuff.</p>
+<h2>About Myself</h2>
 
-<h2>Skills</h2>
-
-<ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>NodeJS</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
-</ul>
-
-<h2>Projects</h2>
-
-<ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
-</ul>
+<p> An engineering grad who is passionate about telling stories through data.  Always found myself working at the intersection of data, product and storytelling, and I absolutely love this space .  Outdoor enthusiast, fried chicken sandwich connoisseur, off beat travel guide, self certified data geek and horribly bad D3js developer.  
+	
+	Ping me about data projects, product/project planning, career advice, camping guidance or for good fried chicken
+	</p>
